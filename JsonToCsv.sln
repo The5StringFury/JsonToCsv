@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToCsv", "JsonToCsv\JsonToCsv.csproj", "{770AEA5B-C5DE-461D-8CA6-F47874E9103A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonToCsv", "JsonToCsv\JsonToCsv.csproj", "{770AEA5B-C5DE-461D-8CA6-F47874E9103A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToCsv_NetFramework", "JsonToCsv_NetFramework\JsonToCsv_NetFramework.csproj", "{C9A56A68-FAEB-45D2-B695-B3DB2C2D1D1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{770AEA5B-C5DE-461D-8CA6-F47874E9103A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{770AEA5B-C5DE-461D-8CA6-F47874E9103A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{770AEA5B-C5DE-461D-8CA6-F47874E9103A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A56A68-FAEB-45D2-B695-B3DB2C2D1D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A56A68-FAEB-45D2-B695-B3DB2C2D1D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A56A68-FAEB-45D2-B695-B3DB2C2D1D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A56A68-FAEB-45D2-B695-B3DB2C2D1D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
